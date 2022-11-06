@@ -1,0 +1,30 @@
+body{
+  background-color: #FFDDD2;
+}
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #E97777;
+  background-color: #DEF5E5;
+}
+h4{
+  font-family: 'Recursive', sans-serif;
+}
+.logo{
+  height:120px;
+  width:120px;
+}
+#jumbotron-centered{
+  background-color: #FFDDD2;
+}
+#welcome{
+  font-family: 'Pacifico', cursive;
+}
+#para{
+font-family: 'Playfair Display', serif;
+}
